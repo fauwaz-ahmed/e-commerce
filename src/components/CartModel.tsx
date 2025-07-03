@@ -17,7 +17,7 @@ const CartModel = () => {
                         className="object-cover rounded-md"
                     />
 
-                    <div className="flex flex-col justify-between w-full ">
+                    <div className="flex flex-col justify-between w-full relative ">
                         {/* TOP */}
 
                         <div className="">
